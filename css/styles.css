@@ -5,3 +5,39 @@
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+body {
+  background: hsl(233, 47%, 7%);
+}
+
+main {
+  color: white;
+  font-size: 15px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+
+span {
+  color: hsl(277, 64%, 61%);
+}
+
+.title {
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.rectangle {
+  position: absolute;
+  top: 25%;
+  left: 13%;
+  margin-left: 225px;
+  width: 1300px;
+  height: 500px;
+  background: hsl(244, 38%, 16%);
+  border-radius: 10px 0px 0px 10px;
+}
+
+img {
+  float: right;
+}
