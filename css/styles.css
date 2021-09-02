@@ -35,9 +35,11 @@ span {
   width: 1300px;
   height: 500px;
   background: hsl(244, 38%, 16%);
-  border-radius: 10px 0px 0px 10px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 img {
   float: right;
+  position: relative;
+  top: -100px;
 }
